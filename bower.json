@@ -1,0 +1,19 @@
+{
+  "name": "tabela-fipe",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Mateus Cerqueira <mateus_mcg@icloud.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "fipe",
+    "tabela",
+    "angular"
+  ],
+  "homepage": "https://github.com/mateusmcg/tabela-fipe",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
