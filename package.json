@@ -1,0 +1,27 @@
+{
+  "name": "tabela-fipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusmcg/tabela-fipe.git"
+  },
+  "keywords": [
+    "fipe",
+    "tabela",
+    "angular"
+  ],
+  "author": "Mateus Cerqueira <mateus_mcg@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusmcg/tabela-fipe/issues"
+  },
+  "homepage": "https://github.com/mateusmcg/tabela-fipe#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
